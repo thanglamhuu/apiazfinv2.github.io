@@ -1,14 +1,14 @@
 {
-  "minPB": 46.7505,
-  "maxPB": 66.4349,
-  "medianPB": 51.67,
-  "hienTaiPB": 51.67156151596317,
-  "minPE": -33.85,
-  "maxPE": 3581.7961,
-  "medianPE": -26.33,
-  "hienTaiPE": 3581.7960938306564,
+  "minPB": 0.0648,
+  "maxPB": 1074.0723,
+  "medianPB": 0.28,
+  "hienTaiPB": -237.7577,
+  "minPE": -1423.4667,
+  "maxPE": 2656.4642,
+  "medianPE": -0.49,
+  "hienTaiPE": 3581.7961,
   "minPS": 0.2216,
   "maxPS": 12.4808,
   "medianPS": 1.38,
-  "hienTaiPS": 2.7319205292968145
+  "hienTaiPS": 2.73192
 }
