@@ -1534,10 +1534,10 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 7655.1,
+      "vonhoa": 7560.9,
       "roa": 7.7,
       "roe": 14.1,
-      "ctcp": 0.6,
+      "ctcp": 0.7,
       "ctcp3": null,
       "ctcp5": null,
       "pthutts": 17.8,
@@ -4411,7 +4411,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 148.8,
+      "vonhoa": 149.4,
       "roa": null,
       "roe": null,
       "ctcp": 0,
@@ -5353,7 +5353,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 137.1,
+      "vonhoa": 121.2,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -8053,7 +8053,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 168.6,
+      "vonhoa": 167.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -16735,7 +16735,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 154,
+      "vonhoa": 161.2,
       "roa": null,
       "roe": null,
       "ctcp": 0,
@@ -18394,7 +18394,7 @@
     "r": {
       "lastDates": "2017-06-30",
       "floor": "UPCOM",
-      "vonhoa": 25,
+      "vonhoa": 25.5,
       "PB": "0.45",
       "PE": "19.53",
       "PS": "0.00",
@@ -25999,7 +25999,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 308.3,
+      "vonhoa": 306.6,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -55426,7 +55426,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HNX",
-      "vonhoa": 514.1,
+      "vonhoa": 520.3,
       "roa": 0.2,
       "roe": 0.8,
       "ctcp": 0,
@@ -59158,7 +59158,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 2031.4,
+      "vonhoa": 2031.5,
       "roa": 2.6,
       "roe": 8.3,
       "ctcp": 0,
@@ -64510,7 +64510,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 360,
+      "vonhoa": 360.2,
       "PB": "2.26",
       "PE": "132.12",
       "PS": "0.00",
