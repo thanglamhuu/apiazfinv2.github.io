@@ -1534,10 +1534,10 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 7637.3,
+      "vonhoa": 7602.5,
       "roa": 7.7,
       "roe": 14.1,
-      "ctcp": 0.6,
+      "ctcp": 0.7,
       "ctcp3": null,
       "ctcp5": null,
       "pthutts": 17.8,
@@ -4411,7 +4411,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 122.4,
+      "vonhoa": 124.4,
       "roa": null,
       "roe": null,
       "ctcp": 0,
@@ -5353,7 +5353,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 122.8,
+      "vonhoa": 127.3,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -8053,7 +8053,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 172,
+      "vonhoa": 171.7,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -18394,7 +18394,7 @@
     "r": {
       "lastDates": "2017-06-30",
       "floor": "UPCOM",
-      "vonhoa": 25.7,
+      "vonhoa": 26.6,
       "PB": "0.45",
       "PE": "19.53",
       "PS": "0.00",
@@ -22444,7 +22444,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 14.5,
+      "vonhoa": 15.7,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25999,7 +25999,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 304.1,
+      "vonhoa": 301.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -43006,7 +43006,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 565.7,
+      "vonhoa": 559.4,
       "PB": "-74.69",
       "PE": "-0.68",
       "PS": "0.20",
@@ -59158,7 +59158,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 2027.2,
+      "vonhoa": 2030.5,
       "roa": 2.6,
       "roe": 8.3,
       "ctcp": 0,
@@ -63565,15 +63565,15 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 474.8,
+      "vonhoa": 520.1,
       "PB": "1.24",
       "PE": "68,563.29",
       "PS": "1.47",
       "roa": 1,
       "roe": 1.4,
-      "ctcp": 0.7,
+      "ctcp": 0.6,
       "ctcp3": 0.4,
-      "ctcp5": 1.2,
+      "ctcp5": 1.1,
       "pthutts": 28.4,
       "htkhotts": 11.1,
       "tscdtts": 14.6,
