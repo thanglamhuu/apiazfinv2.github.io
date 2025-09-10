@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 7574,
+      "vonhoa": 7519.3,
       "roa": 7.7,
       "roe": 13.9,
       "ctcp": 0.7,
@@ -4411,7 +4411,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 137.4,
+      "vonhoa": 128.7,
       "roa": null,
       "roe": null,
       "ctcp": 0,
@@ -5353,7 +5353,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 124.4,
+      "vonhoa": 122.8,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -8053,7 +8053,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 172.8,
+      "vonhoa": 171.4,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -18394,7 +18394,7 @@
     "r": {
       "lastDates": "2017-06-30",
       "floor": "UPCOM",
-      "vonhoa": 25.6,
+      "vonhoa": 28,
       "PB": "0.45",
       "PE": "19.53",
       "PS": "0.00",
@@ -22444,7 +22444,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 12.9,
+      "vonhoa": 13,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25999,7 +25999,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 299.7,
+      "vonhoa": 301.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -42196,7 +42196,7 @@
     "r": {
       "lastDates": "2025-03-31",
       "floor": "UPCOM",
-      "vonhoa": 28,
+      "vonhoa": 28.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -55426,7 +55426,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HNX",
-      "vonhoa": 526.4,
+      "vonhoa": 520.3,
       "roa": 0.2,
       "roe": 0.8,
       "ctcp": 0,
@@ -59158,7 +59158,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 2018.9,
+      "vonhoa": 2017.5,
       "roa": 2.6,
       "roe": 8.3,
       "ctcp": 0,
@@ -63565,7 +63565,7 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
-      "vonhoa": 504.3,
+      "vonhoa": 517.8,
       "PB": "1.23",
       "PE": "68,414.71",
       "PS": "1.46",
