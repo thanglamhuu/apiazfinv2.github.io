@@ -9,6 +9,6 @@
   "hienTaiPE": 0.3415,
   "minPS": 0.0016,
   "maxPS": 0.0843,
-  "medianPS": 0,
+  "medianPS": 0.01,
   "hienTaiPS": 0.0064
 }
