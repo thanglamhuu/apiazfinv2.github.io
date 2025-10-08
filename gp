@@ -1,0 +1,1 @@
+git init && git remote add origin  git@github.com:thanglamhuu/apiazfinv2.github.io.git && git add -A && git commit -m "update" && git push origin master --force
