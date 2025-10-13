@@ -1,0 +1,178 @@
+[
+  {
+    "code": "VNINDEX",
+    "name": "VNINDEX",
+    "ib": 1.4935,
+    "ab": 2.9828,
+    "eb": 1.92,
+    "hb": 2.12895015
+  },
+  {
+    "code": "HNXIndex",
+    "name": "HNXIndex",
+    "ib": 0.7961,
+    "ab": 2.4811,
+    "eb": 1.17,
+    "hb": 1.89372
+  },
+  {
+    "code": "UpcomIndex",
+    "name": "UpcomIndex",
+    "ib": 1.3631,
+    "ab": 4.0633,
+    "eb": 2.25,
+    "hb": 2.28129533
+  },
+  {
+    "code": "OILGAS_L2",
+    "name": "Dầu khí L2",
+    "ib": 0.6571,
+    "ab": 2.4395,
+    "eb": 1.33,
+    "hb": 1.41547063
+  },
+  {
+    "code": "CHEMICAL_L2",
+    "name": "Hóa chất L2",
+    "ib": 0.8458,
+    "ab": 2.5149,
+    "eb": 1.24,
+    "hb": 1.73246053
+  },
+  {
+    "code": "BASICRES_L2",
+    "name": "Tài nguyên Cơ bản L2",
+    "ib": 0.9604,
+    "ab": 2.2787,
+    "eb": 1.32,
+    "hb": 1.63600041
+  },
+  {
+    "code": "CONSTRMAT_L2",
+    "name": "Xây dựng và Vật liệu L2",
+    "ib": 0.585,
+    "ab": 2.1124,
+    "eb": 1.19,
+    "hb": 1.56555595
+  },
+  {
+    "code": "INDUSTGDS_L2",
+    "name": "Hàng & Dịch vụ Công nghiệp L2",
+    "ib": 0.5409,
+    "ab": 3.0489,
+    "eb": 2.09,
+    "hb": 2.55625016
+  },
+  {
+    "code": "AUTOPARTS_L2",
+    "name": "Ô tô và phụ tùng L2",
+    "ib": 0.697,
+    "ab": 2.0068,
+    "eb": 1.27,
+    "hb": 1.55756496
+  },
+  {
+    "code": "FOODBEVERA_L2",
+    "name": "Thực phẩm và đồ uống L2",
+    "ib": 2.1423,
+    "ab": 4.4387,
+    "eb": 2.93,
+    "hb": 2.776552
+  },
+  {
+    "code": "PERSHHOLD_L2",
+    "name": "Hàng cá nhân & Gia dụng L2",
+    "ib": 0.8748,
+    "ab": 2.0478,
+    "eb": 1.49,
+    "hb": 1.36004959
+  },
+  {
+    "code": "HEALTHCARE_L2",
+    "name": "Y tế L2",
+    "ib": 1.2793,
+    "ab": 2.2808,
+    "eb": 1.62,
+    "hb": 1.61893649
+  },
+  {
+    "code": "RETAIL_L2",
+    "name": "Bán lẻ L2",
+    "ib": 0.8244,
+    "ab": 4.111,
+    "eb": 2.77,
+    "hb": 3.69579615
+  },
+  {
+    "code": "MEDIA_L2",
+    "name": "Truyền thông L2",
+    "ib": 0.478,
+    "ab": 2.9198,
+    "eb": 1.36,
+    "hb": 2.25239495
+  },
+  {
+    "code": "TRAVELLSR_L2",
+    "name": "Du lịch và Giải trí L2",
+    "ib": 0.7055,
+    "ab": 8.6997,
+    "eb": 2.83,
+    "hb": 5.61655827
+  },
+  {
+    "code": "TELECOM_L2",
+    "name": "Viễn thông L2",
+    "ib": 0.1594,
+    "ab": 6.9872,
+    "eb": 2.37,
+    "hb": 5.32360579
+  },
+  {
+    "code": "UTILITIES_L2",
+    "name": "Điện, nước & xăng dầu khí đốt L2",
+    "ib": 0.6952,
+    "ab": 3.5439,
+    "eb": 1.91,
+    "hb": 1.68031594
+  },
+  {
+    "code": "BANKS_L2",
+    "name": "Ngân hàng L2",
+    "ib": 1.1702,
+    "ab": 2.3834,
+    "eb": 1.55,
+    "hb": 1.81369842
+  },
+  {
+    "code": "INSURANCE_L2",
+    "name": "Bảo hiểm L2",
+    "ib": 1.2045,
+    "ab": 2.8779,
+    "eb": 1.66,
+    "hb": 1.53084921
+  },
+  {
+    "code": "REALESTATE_L2",
+    "name": "Bất động sản L2",
+    "ib": 1.2488,
+    "ab": 3.5007,
+    "eb": 1.75,
+    "hb": 2.54407182
+  },
+  {
+    "code": "FINSERV_L2",
+    "name": "Dịch vụ tài chính L2",
+    "ib": 0.7327,
+    "ab": 2.4765,
+    "eb": 1.14,
+    "hb": 2.18724018
+  },
+  {
+    "code": "TECHNOLOGY_L2",
+    "name": "Công nghệ Thông tin L2",
+    "ib": 1.0758,
+    "ab": 5.2272,
+    "eb": 1.75,
+    "hb": 3.74761781
+  }
+]
