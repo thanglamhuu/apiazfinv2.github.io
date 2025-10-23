@@ -4,7 +4,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
+<<<<<<< HEAD
       "vonhoa": 13317.8,
+=======
+      "vonhoa": 13412,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "0.87",
       "PE": "10.48",
       "PS": "1.17",
@@ -41,14 +45,18 @@
   {
     "s": "ACB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 128930.1,
+=======
+      "vonhoa": 127389.1,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.48",
       "PE": "7.60",
       "PS": "2.17",
       "roa": 1.8,
-      "roe": 19.5,
+      "roe": 19,
       "ctcp": 3,
       "ctcp3": 1.9,
       "ctcp5": 1.1,
@@ -56,23 +64,23 @@
       "lastnoXauTiLeBaoPhu": 0.7632140615191463,
       "lastTyLeNhomNo2345": 0.017306544840583124,
       "lastduPhongRuiRoTinDungNo2345": 0.5542487235594457,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 0.64,
-      "nhTsTiLeTaiSanVcsh": 10.7,
-      "lastTongTS": 933541,
-      "lastVcsh": 87211,
-      "lastnhChoVayKhachHang": 633749,
-      "lastTangTruongTongTS": 21.3,
-      "lastTangTruongVcsh": 16.6,
-      "lastnhTangTruongChoVayKhachHang": 15.2,
-      "tangTruongTongTSYoy5Nam": 18.7,
-      "lastVcshYoy5Nam": 23.1,
-      "lastQuiMoTinDungYoy5Nam": 17.4,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 0.65,
+      "nhTsTiLeTaiSanVcsh": 10.4,
+      "lastTongTS": 948549,
+      "lastVcsh": 91416,
+      "lastnhChoVayKhachHang": 669188,
+      "lastTangTruongTongTS": 22,
+      "lastTangTruongVcsh": 15.9,
+      "lastnhTangTruongChoVayKhachHang": 20.6,
+      "tangTruongTongTSYoy5Nam": 17.8,
+      "lastVcshYoy5Nam": 22.7,
+      "lastQuiMoTinDungYoy5Nam": 17.6,
       "lastnhSlNIM": 3,
-      "lastnhSlYOAE": 6.5,
-      "lastnhSlCOF": 3.8,
-      "lastnhTiLeLaiHDDV_TOI": 6.3,
-      "lastnhToiTangTruongYoy": 17.4,
-      "lastTangTruongLnst": 9.2,
+      "lastnhSlYOAE": 6.6,
+      "lastnhSlCOF": 4,
+      "lastnhTiLeLaiHDDV_TOI": 9.5,
+      "lastnhToiTangTruongYoy": -9.8,
+      "lastTangTruongLnst": 10.6,
       "nhToiTangTruongYoy5Nam": 15.8,
       "lasttangTruongLNSTCtyMeNam": 22.8
     }
@@ -82,7 +90,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HNX",
+<<<<<<< HEAD
       "vonhoa": 13041.8,
+=======
+      "vonhoa": 13242.5,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.07",
       "PE": "11.26",
       "PS": "1.00",
@@ -121,7 +133,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 261194.7,
+=======
+      "vonhoa": 256279.7,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.66",
       "PE": "10.10",
       "PS": "1.65",
@@ -160,7 +176,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
+<<<<<<< HEAD
       "vonhoa": 8396.7,
+=======
+      "vonhoa": 8344.8,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.21",
       "PE": "28.40",
       "PS": "1.00",
@@ -199,7 +219,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 271184.6,
+=======
+      "vonhoa": 262592.6,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.67",
       "PE": "9.01",
       "PS": "1.90",
@@ -238,7 +262,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 43587.7,
+=======
+      "vonhoa": 44705.3,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.67",
       "PE": "13.12",
       "PS": "2.58",
@@ -277,7 +305,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 124940.9,
+=======
+      "vonhoa": 116291.1,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "2.01",
       "PE": "7.96",
       "PS": "1.69",
@@ -314,14 +346,23 @@
   {
     "s": "KLB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "UPCOM",
+<<<<<<< HEAD
       "vonhoa": 9588.2,
       "PB": "1.24",
       "PE": "6.36",
       "PS": "1.11",
       "roa": 1.2,
       "roe": 16.3,
+=======
+      "vonhoa": 10024.9,
+      "PB": "1.24",
+      "PE": "6.36",
+      "PS": "1.11",
+      "roa": 1.5,
+      "roe": 19.5,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "ctcp": 0,
       "ctcp3": 0,
       "ctcp5": 0,
@@ -329,23 +370,23 @@
       "lastnoXauTiLeBaoPhu": 0.8279648609077599,
       "lastTyLeNhomNo2345": 0.0347390858124869,
       "lastduPhongRuiRoTinDungNo2345": 0.4681291390728477,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 1.67,
-      "nhTsTiLeTaiSanVcsh": 13.5,
-      "lastTongTS": 97630,
-      "lastVcsh": 7246,
-      "lastnhChoVayKhachHang": 69547,
-      "lastTangTruongTongTS": 6.5,
-      "lastTangTruongVcsh": 18,
-      "lastnhTangTruongChoVayKhachHang": 22.1,
-      "tangTruongTongTSYoy5Nam": 12,
-      "lastVcshYoy5Nam": 13.3,
-      "lastQuiMoTinDungYoy5Nam": 15.3,
-      "lastnhSlNIM": 4.3,
-      "lastnhSlYOAE": 9.6,
-      "lastnhSlCOF": 5.1,
-      "lastnhTiLeLaiHDDV_TOI": 12.5,
-      "lastnhToiTangTruongYoy": 5.1,
-      "lastTangTruongLnst": 67.7,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 1.43,
+      "nhTsTiLeTaiSanVcsh": 12.7,
+      "lastTongTS": 97716,
+      "lastVcsh": 7724,
+      "lastnhChoVayKhachHang": 70922,
+      "lastTangTruongTongTS": 6.4,
+      "lastTangTruongVcsh": 22,
+      "lastnhTangTruongChoVayKhachHang": 19.6,
+      "tangTruongTongTSYoy5Nam": 11.9,
+      "lastVcshYoy5Nam": 14.6,
+      "lastQuiMoTinDungYoy5Nam": 16,
+      "lastnhSlNIM": 4.6,
+      "lastnhSlYOAE": 10.3,
+      "lastnhSlCOF": 5.4,
+      "lastnhTiLeLaiHDDV_TOI": 13.4,
+      "lastnhToiTangTruongYoy": 2.9,
+      "lastTangTruongLnst": 194.9,
       "nhToiTangTruongYoy5Nam": 26.9,
       "lasttangTruongLNSTCtyMeNam": 67.3
     }
@@ -353,14 +394,18 @@
   {
     "s": "LPB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 149065.4,
+=======
+      "vonhoa": 141895.9,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "3.43",
       "PE": "14.39",
       "PS": "3.64",
       "roa": 1.9,
-      "roe": 24.4,
+      "roe": 23.8,
       "ctcp": 0,
       "ctcp3": 0,
       "ctcp5": 0,
@@ -368,23 +413,23 @@
       "lastnoXauTiLeBaoPhu": 0.7528019925280199,
       "lastTyLeNhomNo2345": 0.02688984830336841,
       "lastduPhongRuiRoTinDungNo2345": 0.48774583963691376,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 1.62,
-      "nhTsTiLeTaiSanVcsh": 12.6,
-      "lastTongTS": 513613,
-      "lastVcsh": 40700,
-      "lastnhChoVayKhachHang": 368727,
-      "lastTangTruongTongTS": 16,
-      "lastTangTruongVcsh": 6.2,
-      "lastnhTangTruongChoVayKhachHang": 16.2,
-      "tangTruongTongTSYoy5Nam": 19.2,
-      "lastVcshYoy5Nam": 25.3,
-      "lastQuiMoTinDungYoy5Nam": 19.3,
-      "lastnhSlNIM": 3,
-      "lastnhSlYOAE": 7.5,
-      "lastnhSlCOF": 4.9,
-      "lastnhTiLeLaiHDDV_TOI": 17.3,
-      "lastnhToiTangTruongYoy": 4.8,
-      "lastTangTruongLnst": -1.1,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 0.78,
+      "nhTsTiLeTaiSanVcsh": 12.4,
+      "lastTongTS": 539149,
+      "lastVcsh": 43462,
+      "lastnhChoVayKhachHang": 387898,
+      "lastTangTruongTongTS": 18.3,
+      "lastTangTruongVcsh": 6.9,
+      "lastnhTangTruongChoVayKhachHang": 21.3,
+      "tangTruongTongTSYoy5Nam": 20.5,
+      "lastVcshYoy5Nam": 25.9,
+      "lastQuiMoTinDungYoy5Nam": 19.5,
+      "lastnhSlNIM": 3.3,
+      "lastnhSlYOAE": 8,
+      "lastnhSlCOF": 5.1,
+      "lastnhTiLeLaiHDDV_TOI": 16,
+      "lastnhToiTangTruongYoy": 8.4,
+      "lastTangTruongLnst": 18.5,
       "nhToiTangTruongYoy5Nam": 25.1,
       "lasttangTruongLNSTCtyMeNam": 43.5
     }
@@ -394,7 +439,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 204999.7,
+=======
+      "vonhoa": 203388.7,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.67",
       "PE": "8.36",
       "PS": "2.22",
@@ -433,7 +482,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 38844,
+=======
+      "vonhoa": 38064,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "0.99",
       "PE": "7.62",
       "PS": "1.76",
@@ -472,7 +525,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 24362.7,
+=======
+      "vonhoa": 24105.4,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.15",
       "PE": "6.28",
       "PS": "1.24",
@@ -511,7 +568,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HNX",
+<<<<<<< HEAD
       "vonhoa": 18206.8,
+=======
+      "vonhoa": 18089.3,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "2.78",
       "PE": "-3.07",
       "PS": "3.18",
@@ -550,7 +611,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 33953.9,
+=======
+      "vonhoa": 31956.6,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.03",
       "PE": "11.29",
       "PS": "1.65",
@@ -587,14 +652,23 @@
   {
     "s": "PGB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "UPCOM",
+<<<<<<< HEAD
       "vonhoa": 13008,
       "PB": "2.11",
       "PE": "19.17",
       "PS": "1.58",
       "roa": 0.4,
       "roe": 5.5,
+=======
+      "vonhoa": 13169,
+      "PB": "2.11",
+      "PE": "19.17",
+      "PS": "1.58",
+      "roa": 0.6,
+      "roe": 7,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "ctcp": 0,
       "ctcp3": 0,
       "ctcp5": 0,
@@ -602,23 +676,23 @@
       "lastnoXauTiLeBaoPhu": 0.3558201058201058,
       "lastTyLeNhomNo2345": 0.05086317179525978,
       "lastduPhongRuiRoTinDungNo2345": 0.23279965382951104,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 0.74,
-      "nhTsTiLeTaiSanVcsh": 12.7,
-      "lastTongTS": 78534,
-      "lastVcsh": 6178,
-      "lastnhChoVayKhachHang": 45436,
-      "lastTangTruongTongTS": 31.6,
-      "lastTangTruongVcsh": 23.7,
-      "lastnhTangTruongChoVayKhachHang": 23.8,
-      "tangTruongTongTSYoy5Nam": 19.4,
-      "lastVcshYoy5Nam": 9.9,
-      "lastQuiMoTinDungYoy5Nam": 14.2,
-      "lastnhSlNIM": 2.5,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 0.73,
+      "nhTsTiLeTaiSanVcsh": 12.5,
+      "lastTongTS": 79838,
+      "lastVcsh": 6362,
+      "lastnhChoVayKhachHang": 44349,
+      "lastTangTruongTongTS": 29.2,
+      "lastTangTruongVcsh": 24.7,
+      "lastnhTangTruongChoVayKhachHang": 20.2,
+      "tangTruongTongTSYoy5Nam": 18.3,
+      "lastVcshYoy5Nam": 10.5,
+      "lastQuiMoTinDungYoy5Nam": 12.2,
+      "lastnhSlNIM": 2.4,
       "lastnhSlYOAE": 6.1,
-      "lastnhSlCOF": 3.8,
-      "lastnhTiLeLaiHDDV_TOI": 2.5,
-      "lastnhToiTangTruongYoy": 8.5,
-      "lastTangTruongLnst": 77.8,
+      "lastnhSlCOF": 4,
+      "lastnhTiLeLaiHDDV_TOI": 0.8,
+      "lastnhToiTangTruongYoy": 13.9,
+      "lastTangTruongLnst": 176.1,
       "nhToiTangTruongYoy5Nam": 8.9,
       "lasttangTruongLNSTCtyMeNam": 35.4
     }
@@ -667,7 +741,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 76485.2,
+=======
+      "vonhoa": 77403.9,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.21",
       "PE": "6.97",
       "PS": "1.27",
@@ -706,7 +784,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 51921.3,
+=======
+      "vonhoa": 49503,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.31",
       "PE": "7.55",
       "PS": "2.19",
@@ -782,14 +864,23 @@
   {
     "s": "TCB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 269277.1,
       "PB": "1.64",
       "PE": "12.21",
       "PS": "3.58",
       "roa": 2.1,
       "roe": 13.3,
+=======
+      "vonhoa": 268214.2,
+      "PB": "1.64",
+      "PE": "12.21",
+      "PS": "3.58",
+      "roa": 2,
+      "roe": 12.5,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "ctcp": 1.9,
       "ctcp3": 0.7,
       "ctcp5": 0.4,
@@ -797,23 +888,23 @@
       "lastnoXauTiLeBaoPhu": 1.0651808713181767,
       "lastTyLeNhomNo2345": 0.018521412130688693,
       "lastduPhongRuiRoTinDungNo2345": 0.722940103374886,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 0.9,
-      "nhTsTiLeTaiSanVcsh": 6.4,
-      "lastTongTS": 1037645,
-      "lastVcsh": 161827,
-      "lastnhChoVayKhachHang": 710313,
-      "lastTangTruongTongTS": 14.2,
-      "lastTangTruongVcsh": 16.8,
-      "lastnhTangTruongChoVayKhachHang": 20,
-      "tangTruongTongTSYoy5Nam": 21.3,
-      "lastVcshYoy5Nam": 19.1,
-      "lastQuiMoTinDungYoy5Nam": 25.1,
-      "lastnhSlNIM": 4,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 0.93,
+      "nhTsTiLeTaiSanVcsh": 6.3,
+      "lastTongTS": 1129570,
+      "lastVcsh": 179431,
+      "lastnhChoVayKhachHang": 766710,
+      "lastTangTruongTongTS": 21.8,
+      "lastTangTruongVcsh": 24.3,
+      "lastnhTangTruongChoVayKhachHang": 22.4,
+      "tangTruongTongTSYoy5Nam": 23,
+      "lastVcshYoy5Nam": 20.5,
+      "lastQuiMoTinDungYoy5Nam": 27.1,
+      "lastnhSlNIM": 4.1,
       "lastnhSlYOAE": 7.2,
-      "lastnhSlCOF": 3.4,
-      "lastnhTiLeLaiHDDV_TOI": 16.5,
-      "lastnhToiTangTruongYoy": 9.7,
-      "lastTangTruongLnst": 0.9,
+      "lastnhSlCOF": 3.5,
+      "lastnhTiLeLaiHDDV_TOI": 15.9,
+      "lastnhToiTangTruongYoy": 11.8,
+      "lastTangTruongLnst": 11.9,
       "nhToiTangTruongYoy5Nam": 17.4,
       "lasttangTruongLNSTCtyMeNam": 16.4
     }
@@ -823,7 +914,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 47951.5,
+=======
+      "vonhoa": 47423.1,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.25",
       "PE": "7.49",
       "PS": "1.49",
@@ -860,14 +955,23 @@
   {
     "s": "VAB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 9510.6,
       "PB": "0.98",
       "PE": "8.90",
       "PS": "1.10",
       "roa": 0.7,
       "roe": 10.5,
+=======
+      "vonhoa": 9592.2,
+      "PB": "0.98",
+      "PE": "8.90",
+      "PS": "1.10",
+      "roa": 0.8,
+      "roe": 11,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "ctcp": 0,
       "ctcp3": 0,
       "ctcp5": 0,
@@ -875,23 +979,23 @@
       "lastnoXauTiLeBaoPhu": 0.8827160493827161,
       "lastTyLeNhomNo2345": 0.018931230520798835,
       "lastduPhongRuiRoTinDungNo2345": 0.518429003021148,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 4.27,
-      "nhTsTiLeTaiSanVcsh": 14.2,
-      "lastTongTS": 133952,
-      "lastVcsh": 9421,
-      "lastnhChoVayKhachHang": 87422,
-      "lastTangTruongTongTS": 23,
-      "lastTangTruongVcsh": 11.8,
-      "lastnhTangTruongChoVayKhachHang": 18.5,
-      "tangTruongTongTSYoy5Nam": 11.4,
-      "lastVcshYoy5Nam": 15.6,
-      "lastQuiMoTinDungYoy5Nam": 13.6,
-      "lastnhSlNIM": 1.8,
-      "lastnhSlYOAE": 6.8,
-      "lastnhSlCOF": 5.1,
-      "lastnhTiLeLaiHDDV_TOI": 3.9,
-      "lastnhToiTangTruongYoy": -8.7,
-      "lastTangTruongLnst": 12.6,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 4.58,
+      "nhTsTiLeTaiSanVcsh": 13.9,
+      "lastTongTS": 134614,
+      "lastVcsh": 9691,
+      "lastnhChoVayKhachHang": 86831,
+      "lastTangTruongTongTS": 15.6,
+      "lastTangTruongVcsh": 12.5,
+      "lastnhTangTruongChoVayKhachHang": 12.4,
+      "tangTruongTongTSYoy5Nam": 11.7,
+      "lastVcshYoy5Nam": 11.7,
+      "lastQuiMoTinDungYoy5Nam": 12.7,
+      "lastnhSlNIM": 2,
+      "lastnhSlYOAE": 7.2,
+      "lastnhSlCOF": 5.2,
+      "lastnhTiLeLaiHDDV_TOI": 3.6,
+      "lastnhToiTangTruongYoy": 20.7,
+      "lastTangTruongLnst": 42.2,
       "nhToiTangTruongYoy5Nam": 16.5,
       "lasttangTruongLNSTCtyMeNam": 33.1
     }
@@ -901,7 +1005,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "UPCOM",
+<<<<<<< HEAD
       "vonhoa": 9455,
+=======
+      "vonhoa": 9697.2,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "1.04",
       "PE": "10.70",
       "PS": "0.97",
@@ -940,7 +1048,11 @@
     "r": {
       "lastDates": "2025-06-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 497998.2,
+=======
+      "vonhoa": 496327.1,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "PB": "2.33",
       "PE": "14.37",
       "PS": "4.58",
@@ -1016,8 +1128,9 @@
   {
     "s": "VPB",
     "r": {
-      "lastDates": "2025-06-30",
+      "lastDates": "2025-09-30",
       "floor": "HOSE",
+<<<<<<< HEAD
       "vonhoa": 241588,
       "PB": "1.57",
       "PE": "11.70",
@@ -1025,29 +1138,38 @@
       "roa": 1.6,
       "roe": 11.9,
       "ctcp": 3.3,
+=======
+      "vonhoa": 236034.2,
+      "PB": "1.57",
+      "PE": "11.70",
+      "PS": "2.25",
+      "roa": 1.8,
+      "roe": 13.3,
+      "ctcp": 3.4,
+>>>>>>> 3815d3cc854a001858d95890d5356633c1179f05
       "ctcp3": 2.2,
       "ctcp5": 1.3,
       "noXauTiLe": 0.039734577988123,
       "lastnoXauTiLeBaoPhu": 0.5219608438306268,
       "lastTyLeNhomNo2345": 0.07007614054533078,
       "lastduPhongRuiRoTinDungNo2345": 0.2959622732436061,
-      "lastnhTsTiLeLaiPhiTongTaiSan": 0.94,
-      "nhTsTiLeTaiSanVcsh": 7.3,
-      "lastTongTS": 1104719,
-      "lastVcsh": 152183,
-      "lastnhChoVayKhachHang": 829127,
-      "lastTangTruongTongTS": 27.8,
-      "lastTangTruongVcsh": 10.2,
-      "lastnhTangTruongChoVayKhachHang": 32.8,
-      "tangTruongTongTSYoy5Nam": 22.6,
-      "lastVcshYoy5Nam": 26.2,
-      "lastQuiMoTinDungYoy5Nam": 25.1,
-      "lastnhSlNIM": 5.3,
-      "lastnhSlYOAE": 9.3,
-      "lastnhSlCOF": 4.6,
-      "lastnhTiLeLaiHDDV_TOI": 8.1,
-      "lastnhToiTangTruongYoy": 6.2,
-      "lastTangTruongLnst": 36.3,
+      "lastnhTsTiLeLaiPhiTongTaiSan": 1.15,
+      "nhTsTiLeTaiSanVcsh": 7.4,
+      "lastTongTS": 1178299,
+      "lastVcsh": 159545,
+      "lastnhChoVayKhachHang": 896412,
+      "lastTangTruongTongTS": 37.2,
+      "lastTangTruongVcsh": 12.2,
+      "lastnhTangTruongChoVayKhachHang": 41.1,
+      "tangTruongTongTSYoy5Nam": 23.3,
+      "lastVcshYoy5Nam": 26.3,
+      "lastQuiMoTinDungYoy5Nam": 26.4,
+      "lastnhSlNIM": 5.4,
+      "lastnhSlYOAE": 9.5,
+      "lastnhSlCOF": 4.7,
+      "lastnhTiLeLaiHDDV_TOI": 11.9,
+      "lastnhToiTangTruongYoy": 21.8,
+      "lastTangTruongLnst": 80.6,
       "nhToiTangTruongYoy5Nam": 11.4,
       "lasttangTruongLNSTCtyMeNam": 13.8
     }
