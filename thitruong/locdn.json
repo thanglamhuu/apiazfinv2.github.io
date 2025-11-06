@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 7552.5,
+      "vonhoa": 7577.1,
       "roa": 8.5,
       "roe": 14.2,
       "ctcp": 0.7,
@@ -4366,7 +4366,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 115.1,
+      "vonhoa": 105.6,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -7966,7 +7966,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 174.1,
+      "vonhoa": 174,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -16651,7 +16651,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 396.4,
+      "vonhoa": 406,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -17596,7 +17596,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 2.6,
+      "vonhoa": 2.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -22276,7 +22276,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 11.5,
+      "vonhoa": 11.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25741,7 +25741,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 275,
+      "vonhoa": 278.5,
       "PB": "1.54",
       "PE": "6.91",
       "PS": "0.20",
@@ -39376,15 +39376,15 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HOSE",
-      "vonhoa": 1561.4,
+      "vonhoa": 1589.3,
       "PB": "1.61",
       "PE": "11.81",
       "PS": "0.47",
       "roa": 4,
       "roe": 11.8,
-      "ctcp": 4.5,
-      "ctcp3": 4.7,
-      "ctcp5": 4,
+      "ctcp": 4.4,
+      "ctcp3": 4.6,
+      "ctcp5": 3.9,
       "pthutts": 13.7,
       "htkhotts": 27.4,
       "tscdtts": 12.9,
@@ -54991,7 +54991,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HNX",
-      "vonhoa": 433.5,
+      "vonhoa": 427.4,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -58681,7 +58681,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 1917.6,
+      "vonhoa": 1923.3,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
