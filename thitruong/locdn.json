@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 7512.9,
+      "vonhoa": 7508.3,
       "roa": 8.5,
       "roe": 14.2,
       "ctcp": 0.7,
@@ -4366,7 +4366,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 121.8,
+      "vonhoa": 119.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -7966,13 +7966,13 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 147.2,
+      "vonhoa": 149.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
       "roa": 0,
       "roe": 0,
-      "ctcp": 2.3,
+      "ctcp": 2.2,
       "ctcp3": 0.8,
       "ctcp5": 0.9,
       "pthutts": 12.1,
@@ -16651,7 +16651,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 395.5,
+      "vonhoa": 393.2,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -22276,7 +22276,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 11.5,
+      "vonhoa": 11.2,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25741,13 +25741,13 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 285.8,
+      "vonhoa": 267.9,
       "PB": "1.54",
       "PE": "6.91",
       "PS": "0.20",
       "roa": null,
       "roe": null,
-      "ctcp": 1.3,
+      "ctcp": 1.4,
       "ctcp3": null,
       "ctcp5": null,
       "pthutts": 0,
@@ -39376,7 +39376,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HOSE",
-      "vonhoa": 1673,
+      "vonhoa": 1662.5,
       "PB": "1.61",
       "PE": "13.61",
       "PS": "0.46",
@@ -54991,7 +54991,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HNX",
-      "vonhoa": 452.1,
+      "vonhoa": 445.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -58681,7 +58681,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 1878.2,
+      "vonhoa": 1881.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -64216,7 +64216,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HOSE",
-      "vonhoa": 847663.4,
+      "vonhoa": 849589.9,
       "PB": "5.83",
       "PE": "96.20",
       "PS": "3.63",
