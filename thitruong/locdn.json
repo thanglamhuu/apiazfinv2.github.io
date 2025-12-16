@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 7575.4,
+      "vonhoa": 7523.5,
       "roa": 8.5,
       "roe": 14.2,
       "ctcp": 0.7,
@@ -4366,7 +4366,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 116.4,
+      "vonhoa": 109.6,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -7966,7 +7966,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 147.8,
+      "vonhoa": 146.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -22276,7 +22276,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 11.9,
+      "vonhoa": 12.3,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -23986,7 +23986,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HOSE",
-      "vonhoa": 649.4,
+      "vonhoa": 604.1,
       "PB": "0.77",
       "PE": "11.89",
       "PS": "1.14",
@@ -25741,13 +25741,13 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 271.9,
+      "vonhoa": 294.6,
       "PB": "1.54",
       "PE": "6.91",
       "PS": "0.20",
       "roa": null,
       "roe": null,
-      "ctcp": 1.4,
+      "ctcp": 1.3,
       "ctcp3": null,
       "ctcp5": null,
       "pthutts": 0,
@@ -39376,7 +39376,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "HOSE",
-      "vonhoa": 1582.4,
+      "vonhoa": 1571.9,
       "PB": "1.61",
       "PE": "14.33",
       "PS": "0.49",
@@ -39384,7 +39384,7 @@
       "roe": 11.8,
       "ctcp": 4.4,
       "ctcp3": 4.6,
-      "ctcp5": 3.9,
+      "ctcp5": 4,
       "pthutts": 13.7,
       "htkhotts": 27.4,
       "tscdtts": 12.9,
@@ -41761,7 +41761,7 @@
     "r": {
       "lastDates": "2025-03-31",
       "floor": "UPCOM",
-      "vonhoa": 22.8,
+      "vonhoa": 23,
       "PB": "2.85",
       "PE": "1.96",
       "PS": "0.45",
@@ -58681,7 +58681,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 1842.5,
+      "vonhoa": 1833,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
