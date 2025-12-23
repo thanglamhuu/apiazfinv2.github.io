@@ -56570,8 +56570,8 @@
       "PB": "1.58",
       "PE": "11.58",
       "PS": "5.74",
-      "roa": 5,
-      "roe": 7.2,
+      "roa": 5.1,
+      "roe": 7.3,
       "ctcp": 6.7,
       "ctcp3": 7.2,
       "ctcp5": 6.5,
@@ -56580,9 +56580,9 @@
       "tscdtts": 2.5,
       "tsddtts": 10.3,
       "tsddtscd": 405.6,
-      "ttsvcsh": 143.5,
+      "ttsvcsh": 143.4,
       "nvrvcsh": -63,
-      "ncdvcsh": 43.5,
+      "ncdvcsh": 43.4,
       "tttdtcth": 13,
       "tthtk3y": null,
       "tthtk5y": null,
@@ -56598,12 +56598,12 @@
       "ttlngyoy": null,
       "ttlng3y": -5.6,
       "ttlng5y": 1.2,
-      "ttlnstqoq": -42.7,
+      "ttlnstqoq": -39.8,
       "ttlnstyoy": null,
       "ttlnst3y": -4.9,
       "ttlnst5y": 4.1,
       "blng": 84.3,
-      "blnr": 38.9
+      "blnr": 40.9
     }
   },
   {
