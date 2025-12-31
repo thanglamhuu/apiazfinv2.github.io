@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 8457.7,
+      "vonhoa": 8572.5,
       "roa": 8.5,
       "roe": 14.2,
       "ctcp": 0.6,
@@ -5311,7 +5311,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 110.7,
+      "vonhoa": 111.5,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -7966,7 +7966,7 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 143.4,
+      "vonhoa": 142.9,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -22231,7 +22231,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 12.5,
+      "vonhoa": 11.5,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25696,7 +25696,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 266.4,
+      "vonhoa": 268.7,
       "PB": "1.54",
       "PE": "6.91",
       "PS": "0.20",
@@ -27856,15 +27856,15 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 12793.5,
+      "vonhoa": 13597,
       "PB": "3.65",
       "PE": "6,367.31",
       "PS": "1.45",
       "roa": 0,
       "roe": 0.1,
-      "ctcp": 4.1,
-      "ctcp3": 2.9,
-      "ctcp5": 2.2,
+      "ctcp": 3.8,
+      "ctcp3": 2.7,
+      "ctcp5": 2.1,
       "pthutts": 19.6,
       "htkhotts": 7.9,
       "tscdtts": 29,
@@ -41626,7 +41626,7 @@
     "r": {
       "lastDates": "2025-03-31",
       "floor": "UPCOM",
-      "vonhoa": 23.7,
+      "vonhoa": 25.2,
       "PB": "2.85",
       "PE": "1.96",
       "PS": "0.45",
@@ -44281,7 +44281,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 68,
+      "vonhoa": 70,
       "PB": "0.34",
       "PE": "-118,312.10",
       "PS": "0.08",
@@ -58501,7 +58501,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 1984.6,
+      "vonhoa": 1864.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
