@@ -1534,7 +1534,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 7705.7,
+      "vonhoa": 7967.6,
       "roa": 8.5,
       "roe": 14.2,
       "ctcp": 0.6,
@@ -7966,13 +7966,13 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 142.9,
+      "vonhoa": 140.4,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
       "roa": 0,
       "roe": 0,
-      "ctcp": 2.3,
+      "ctcp": 2.4,
       "ctcp3": 0.8,
       "ctcp5": 0.9,
       "pthutts": 12.1,
@@ -22231,7 +22231,7 @@
     "r": {
       "lastDates": "2018-03-31",
       "floor": "UPCOM",
-      "vonhoa": 10.6,
+      "vonhoa": 11.5,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -25336,7 +25336,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 96,
+      "vonhoa": 110.4,
       "PB": "2.08",
       "PE": "7.56",
       "PS": "0.95",
@@ -25344,7 +25344,7 @@
       "roe": 26.5,
       "ctcp": 0,
       "ctcp3": 0,
-      "ctcp5": 2.3,
+      "ctcp5": 2,
       "pthutts": 3.1,
       "htkhotts": 2,
       "tscdtts": 41.7,
@@ -25696,7 +25696,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 283.4,
+      "vonhoa": 282.8,
       "PB": "1.54",
       "PE": "6.91",
       "PS": "0.20",
@@ -58501,7 +58501,7 @@
     "r": {
       "lastDates": "2025-09-30",
       "floor": "UPCOM",
-      "vonhoa": 1884.1,
+      "vonhoa": 1863.6,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -63046,7 +63046,7 @@
     "r": {
       "lastDates": "2017-06-30",
       "floor": "UPCOM",
-      "vonhoa": 924.3,
+      "vonhoa": 193.7,
       "PB": "66.82",
       "PE": "183.47",
       "PS": "282.53",
