@@ -5311,7 +5311,7 @@
     "r": {
       "lastDates": "-",
       "floor": "UPCOM",
-      "vonhoa": 113.4,
+      "vonhoa": 113.1,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
@@ -7966,14 +7966,14 @@
     "r": {
       "lastDates": "2018-06-30",
       "floor": "UPCOM",
-      "vonhoa": 138.2,
+      "vonhoa": 140.2,
       "PB": "0.00",
       "PE": "0.00",
       "PS": "0.00",
       "roa": 0,
       "roe": 0,
       "ctcp": 2.4,
-      "ctcp3": 0.9,
+      "ctcp3": 0.8,
       "ctcp5": 0.9,
       "pthutts": 12.1,
       "htkhotts": 32.9,
@@ -14581,7 +14581,7 @@
     "r": {
       "lastDates": "2025-12-31",
       "floor": "UPCOM",
-      "vonhoa": 136.6,
+      "vonhoa": 125.1,
       "PB": "0.77",
       "PE": "-37.92",
       "PS": "0.60",
@@ -41626,7 +41626,7 @@
     "r": {
       "lastDates": "2025-03-31",
       "floor": "UPCOM",
-      "vonhoa": 23.7,
+      "vonhoa": 25.4,
       "PB": "2.85",
       "PE": "1.96",
       "PS": "0.45",
