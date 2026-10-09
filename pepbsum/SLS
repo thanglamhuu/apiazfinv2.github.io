@@ -1,14 +1,14 @@
 {
   "minPB": 0.7793,
-  "maxPB": 3.6723,
+  "maxPB": 3.6667,
   "medianPB": 1.24,
-  "hienTaiPB": 0.855,
+  "hienTaiPB": 0.8356,
   "minPE": 2.5575,
   "maxPE": 10.0297,
   "medianPE": 5.45,
-  "hienTaiPE": 7.8805,
+  "hienTaiPE": 7.7013,
   "minPS": 0.3117,
   "maxPS": 2.5666,
   "medianPS": 1.11,
-  "hienTaiPS": 1.3955
+  "hienTaiPS": 1.3637
 }
